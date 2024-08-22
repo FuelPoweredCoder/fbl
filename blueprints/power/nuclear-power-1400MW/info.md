@@ -16,7 +16,7 @@ Vanilla仕様の原子力発電所
 このBlueprintは他のMODに依存しません。
 
 ## Screenshot
-![Screenshot.png](Screenshot.png)
+![screenshot.png](screenshot.png)
 
 ## Blueprint String
 
