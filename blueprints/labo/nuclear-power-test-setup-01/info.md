@@ -35,7 +35,7 @@
 
 
 ## Screenshot
-![Screenshot.png](Screenshot.png)
+![Screenshot.png](./Screenshot.png)
 
 ## Blueprint String
 
